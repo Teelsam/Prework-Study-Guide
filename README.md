@@ -25,7 +25,7 @@ N/A
 
 ## License
 
-## MIT License.
+## MIT License. See Repo.
 
 ## Badges
 
